@@ -1,0 +1,4 @@
+Curso: Curso Básico de JavaScript
+Url: https://platzi.com/clases/basico-javascript/
+Profesor: Diego De Granda
+Estado: Finalizado - Aprobado
