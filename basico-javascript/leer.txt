@@ -3,4 +3,4 @@ Url: https://platzi.com/clases/basico-javascript/
 Profesor: Diego De Granda
 Estado: Finalizado - Aprobado
 
-Ultima clase: https://platzi.com/clases/1814-basico-javascript/26306-objects/
+Ultima clase: https://platzi.com/clases/1814-basico-javascript/26308-metodos-de-recorridos-de-arrays/
