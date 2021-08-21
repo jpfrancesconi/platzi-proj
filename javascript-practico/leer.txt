@@ -3,4 +3,4 @@ Url: https://platzi.com/clases/2327-javascript-practico
 Profesor: Juan David Castro
 Estado: Cursando - No Aprobado
 
-Ultima clase: https://platzi.com/clases/2327-javascript-practico/38655-prueba-de-javascript/
+Ultima clase: https://platzi.com/clases/2327-javascript-practico/38660-encapsulando-codigo-en-funciones/

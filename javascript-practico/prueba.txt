@@ -1,0 +1,79 @@
+1 Responde las siguientes preguntas en la sección de comentarios:
+¿Qué es una variable y para qué sirve?
+Una variable es un espacio en memoria que se reserva para almacenar un dato o informacion.
+
+¿Cuál es la diferencia entre declarar e inicializar una variable?
+Declarar una variable nos sirve para determinar que vamos a necesitar reservar un  espacio en memoria
+para almacenar datos o informacion, inicializar una variable es efectivamente guardar ese dato o informacion en el
+espacio en memoria reservado por primera vez.
+
+¿Cuál es la diferencia entre sumar números y concatenar strings?
+Sumar numeros produce un resultado matematico, concatenar variable produce un nuevo string que contiene los strings
+concatenados.
+
+¿Cuál operador me permite sumar o concatenar?
+El simbolo +
+
+2 Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
+Nombre: name String
+Apellido: last String
+Nombre de usuario en Platzi: user String
+Edad: age Integer
+Correo electrónico: mail String
+Mayor de edad: isAdult Boolean
+Dinero ahorrado: savedMoney Double
+Deudas: debts Double
+
+3 Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios.
+
+4 Calcula e imprime las siguientes variables a partir de las variables del ejemplo anterior:
+Nombre completo (nombre y apellido): let fullName = name + last;
+Dinero real (dinero ahorrado menos deudas): let currentMoney = savedMoney - debts;
+
+Funciones
+1 Responde las siguientes preguntas en la sección de comentarios:
+¿Qué es una función?
+Es un bloque de codigo que tiene la funcion de ser ejecutado cada vez que sea requerido para realizar una tarea determinada.
+Puede tener parametros de entradas para ser procesados y producir una salida.
+
+¿Cuándo me sirve usar una función en mi código?
+Cuando tengo que realizar varias veces el mismo nuemero de sentencias, en este caso es cuando lo mejor es tener
+una funcion o metodo que pueda ser reutilizado las veces que sea necesario.
+
+¿Cuál es la diferencia entre parámetros y argumentos de una función?
+Parametro es una variable que está en la definición de una función, argumento son los datos que se le
+pasan a los parametros de una función.
+
+Condicionales
+1 Responde las siguientes preguntas en la sección de comentarios:
+¿Qué es una condicional?
+Es una decision que bifurca la ejecucion de un algoritmo.
+
+¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+if
+switch
+ternario
+
+¿Puedo combinar funciones y condicionales?
+Si
+
+2 Replica el comportamiento del siguiente código que usa la sentencia switch utilizando if, else y else if:
+
+const tipoDeSuscripcion = "Basic";
+
+switch (tipoDeSuscripcion) {
+   case "Free":
+       console.log("Solo puedes tomar los cursos gratis");
+       break;
+   case "Basic":
+       console.log("Puedes tomar casi todos los cursos de Platzi durante un mes");
+       break;
+   case "Expert":
+       console.log("Puedes tomar casi todos los cursos de Platzi durante un año");
+       break;
+   case "ExpertPlus":
+       console.log("Tú y alguien más pueden tomar TODOS los cursos de Platzi durante un año");
+       break;
+}
+
+
