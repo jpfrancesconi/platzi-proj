@@ -1,0 +1,6 @@
+Curso: Curso Profesional de Git y Github
+Url: https://platzi.com/clases/1557-git-github/
+Profesor: Freddy Vega
+Estado: Cursando - No aprobado
+
+Ultima clase: https://platzi.com/clases/1557-git-github/19936-crea-un-repositorio-de-git-y-haz-tu-primer-commit/
