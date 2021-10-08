@@ -3,3 +3,8 @@ Opicion 1: git rm nomfile (Esto lo elimina pero sigue estando en RAM)
 Opicion 2: git rm --cached nomfile (Ahora si el archivo sale de stage y queda untracked)
 Opicion 3: git rm -f nomfile (ojo esto borra el archivo fisico)
 
+- Mostrar la historia de un file:
+git show nomfile
+
+- Comparar versiones de archivos usando su tag id:
+git diff tagId1 tagId2
