@@ -3,4 +3,4 @@ I'm 37 year old
 And I'm software developer at ideasOrange Software.
 I love Drupal !
 
-What would you say if I asked you about Views API?
+What would you say if I asked you about Views API? Well I know, It's a hard question !
