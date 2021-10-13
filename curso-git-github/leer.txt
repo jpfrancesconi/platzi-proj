@@ -3,4 +3,4 @@ Url: https://platzi.com/clases/1557-git-github/
 Profesor: Freddy Vega
 Estado: Cursando - No aprobado
 
-Ultima clase: https://platzi.com/clases/1557-git-github/19935-flujo-de-trabajo-basico-con-un-repositorio-remoto/
+Ultima clase: https://platzi.com/clases/1557-git-github/19940-introduccion-a-las-ramas-o-branches-de-git/
