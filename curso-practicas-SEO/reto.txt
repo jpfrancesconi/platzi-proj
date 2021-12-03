@@ -1,0 +1,12 @@
+Reto de clase: Describir el sitio web
+Drupaler es un sitio para reunir información actualizada de Drupal en español, conocer las ultimas noticias de todo lo relacionado a
+este  poderoso CMS y leer tutoriales sobre problemas comunes a los site builders y Drupal developers.
+Somos una comunidad argentina que quiere crecer y dar a conocer todo lo relacionado a Drupal CMS.
+
+
+Title: Tutoriales y Noticias de Drupal en Español | Drupaler
+
+Descripcion:
+Drupaler es un sitio de noticias y tutoriales de Drupal en español. ¡ Conóce nuestra experiencia !
+
+URL: www.drupaler.com.ar
